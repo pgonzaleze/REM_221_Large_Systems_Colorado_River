@@ -2,7 +2,8 @@
 
 **REM 221 Systems Thinking and the Environment · Module 10**
 
-A team activity about the Colorado River. You will read a story in tabs, teach your team what you learned, negotiate a draft agreement between the United States and Mexico, and submit it as a PDF.
+A team activity about the Colorado River.You will read a story in tabs, teach your team what you learned, negotiate a draft agreement between the United States and Mexico, and submit it as a PDF.
+Access the pae here: https://pgonzaleze.github.io/REM_221_Large_Systems_Colorado_River/ 
 
 ## What to do
 
