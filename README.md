@@ -33,4 +33,4 @@ Enter the code in the **What happened** tab. It compares your team's draft with 
 - **Please do not search for the outcome** before the reveal. Use the facts in the tabs.
 - **On a phone,** if the PDF does not save, use the Share button in the print window, then "Save to Files".
 - **Print window missing?** Allow pop-ups for the page, or try another browser.
-- References are listed in the **Start** tab. Scenes in the story are illustrations; the facts come from the cited sources, and figures marked ≈ are estimates.
+- References are listed in the **Start** tab. The facts come from the cited sources.
