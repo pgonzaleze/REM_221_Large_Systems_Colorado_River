@@ -14,7 +14,7 @@ A team activity about the Colorado River.You will read a story in tabs, teach yo
 4. **Open the Decide tab.** Pick a stakeholder role, read your role card, and negotiate as a delegation drafting the next Minute (an addendum to the 1944 U.S.–Mexico Water Treaty). Follow the steps on the page.
 5. **Fill in the boxes** in the Decide tab together. Write in full sentences, about 1–3 per box. Your reasoning matters more than matching what really happened.
 6. **Save as PDF** (button at the bottom of Decide). In the print window, choose **Save as PDF** as the destination.
-7. **Stop at "What happened".** That tab stays locked until your instructor gives you the code.
+7. **Look at "What happened".** That tab stays locked until your instructor gives you the code.
 
 ## After the reveal
 
